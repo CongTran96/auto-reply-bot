@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'botcomment',
-        'USER': 'congtran',
-        'PASSWORD': '',
+        'USER': 'postgres',
+        'PASSWORD': '123456',
         'HOST': '127.0.0.1',
         'POST': '5432'
     }
